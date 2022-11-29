@@ -5,8 +5,10 @@ authors:
     given-names: Youssef
   - family-names: Gasiorowski
     given-names:  Sean
+    orcid: 0000-0002-4067-2472
   - family-names: Chen
     given-names: Yifan
+    orcid: 0000-0002-2742-9718
 title: Detector Physics Simulator With Automatic Differentiation for DUNE Near Detector LArTPC
 version: v0.1.1
 date-released: 2022-11-29
