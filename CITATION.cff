@@ -3,6 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Nashed
     given-names: Youssef
+    orcid: 0000-0001-6146-3939
   - family-names: Gasiorowski
     given-names:  Sean
     orcid: 0000-0002-4067-2472
